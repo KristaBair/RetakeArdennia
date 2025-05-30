@@ -3,6 +3,12 @@
 
 Welcome to the *DesignProject*, a MATLAB-based role-playing game (RPG) developed as part of a creative coding or engineering design class. This game includes combat scenarios, cutscenes, trivia, hidden treasures, and more.
 
+Team:
+Krista B.
+Briar A.
+Lauren K.
+Rory D.
+
 ## Features
 
 - Character Creation – Create your player and shape the storyline.
