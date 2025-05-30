@@ -37,3 +37,11 @@ Assets:
 3. Run the main script:
    ```matlab
    StartOfGame
+## Try It Online
+
+You can run the full game without installing anything using MATLAB Online:
+
+[Click here to open the game in MATLAB Online](https://matlab.mathworks.com/...)
+
+Make sure to log in or sign up for a free MathWorks account.
+
